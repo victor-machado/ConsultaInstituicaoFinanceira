@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bank Search</string>
+    <string name="bank_list_search">Buscar</string>
+    <string name="bank_list_favorites">Mais Utilizados</string>
+    <string name="bank_list_others">Outros</string>
+    <string name="form_financial_institution">Instituição Financeira</string>
+</resources>
